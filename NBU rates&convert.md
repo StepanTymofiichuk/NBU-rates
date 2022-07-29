@@ -12,4 +12,5 @@ NBU rates&convert app is designed to quickly and easily convert USD, EUR, GBP to
 # Screens
 ![sequence diagram](https://github.com/StepanTymofiichuk/pet-projects/blob/main/NBUrates.jpg)
 # Download link
-Android:
+- Android:  
+https://drive.google.com/file/d/1MYlcS2_d-ZCnhLR31j15zUTrYy1GsbQQ/view?usp=sharing
